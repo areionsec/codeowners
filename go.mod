@@ -1,4 +1,4 @@
-module github.com/hmarr/codeowners
+module github.com/areionsec/codeowners
 
 go 1.22
 

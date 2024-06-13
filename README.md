@@ -83,7 +83,7 @@ A package for parsing CODEOWNERS files and matching files to owners.
 ### Installation
 
 ```console
-$ go get github.com/hmarr/codeowners
+$ go get github.com/areionsec/codeowners
 ```
 
 ### Usage
@@ -100,7 +100,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/hmarr/codeowners"
+	"github.com/areionsec/codeowners"
 )
 
 func main() {
